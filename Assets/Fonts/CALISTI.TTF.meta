@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e31fd2c009fd1d543abc0d2be84463ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Calisto MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2aa0ed38c99a13a499430e2f5cb8b704, type: 3}
+  - {fileID: 12800000, guid: d2014f20c0bfa784096c31e2e0eadda5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
